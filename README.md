@@ -1,0 +1,2 @@
+# VWVortex-Scraper
+ I was offered a trade for a beautiful mk2 Golf and the current owner had a build thread going over everything they've done during the restoration of this car. I wanted to download all the pictures from that thread, so I whipped up this script real quick to grab the 300+ photos from this thread. I tried to semi-abstract it so it hopefully works for any thread on VWVortex, but I'm no programmer so ¯\\_(ツ)_/¯
